@@ -24,6 +24,6 @@ Contact
 For questions, issues, or further information about this project, please contact:
 
 Dr. Fan Zhang
-Email: fzhang2@clemson.edu
-Department of Mathematical and Statistical Sciences
-Clemson University
+Email: fanzhang@boisestate.edu
+Department of Mathematics
+Boise State University
